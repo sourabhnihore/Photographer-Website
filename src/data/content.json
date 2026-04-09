@@ -1,0 +1,224 @@
+{
+  "heroSliderImages": [
+    "/images/portfolio/wedding01.png",
+    "/images/portfolio/prewedding01.png",
+    "/images/portfolio/Haldi01.png"
+  ],
+  "portfolioCategories": [
+    "All",
+    "Wedding",
+    "Pre-Wedding",
+    "Mehendi",
+    "Haldi",
+    "Engagement",
+    "Candid",
+    "Films"
+  ],
+  "portfolioItems": [
+    {
+      "type": "image",
+      "src": "/images/portfolio/wedding01.png",
+      "category": "Wedding",
+      "title": "Sanya & Rahul",
+      "height": 600,
+      "className": "md:col-span-2 md:row-span-2 h-[300px] md:h-[600px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/wedding03.png",
+      "category": "Wedding",
+      "title": "Ayushi & Mohit",
+      "height": 600,
+      "className": "md:col-span-2 md:row-span-2 h-[300px] md:h-[600px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/wedding04.png",
+      "category": "Wedding",
+      "title": "Devesh & Payal",
+      "height": 600,
+      "className": "md:col-span-2 md:row-span-2 h-[300px] md:h-[600px]"
+    },
+    {
+      "type": "youtube",
+      "src": "https://www.youtube.com/watch?v=ZcrXacWq8RU",
+      "category": "Films",
+      "title": "Cinematic Highlight",
+      "height": 600,
+      "thumbnail": "/images/portfolio/prewedding02.png",
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/prewedding01.png",
+      "category": "Pre-Wedding",
+      "title": "Love in the Air",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/mehendi01.jpg",
+      "category": "Mehendi",
+      "title": "Mehendi Joy",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/mehendi03.png",
+      "category": "Mehendi",
+      "title": "Mehendi Joy",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/Haldi02.png",
+      "category": "Haldi",
+      "title": "Haldi Vibes",
+      "height": 500,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/Haldi01.png",
+      "category": "Haldi",
+      "title": "Haldi Vibes",
+      "height": 500,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/prewedding03.png",
+      "category": "Pre-Wedding",
+      "title": "Love in the Air",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/prewedding06.jpg",
+      "category": "Pre-Wedding",
+      "title": "Love in the Air",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/candid01.jpg",
+      "category": "Candid",
+      "title": "Natural Moments",
+      "height": 550,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/engagement01.jpg",
+      "category": "Engagement",
+      "title": "Rings & Promises",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/engagement02.png",
+      "category": "Engagement",
+      "title": "Rings & Promises",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/wedding02.png",
+      "category": "Wedding",
+      "title": "Eternal Promise",
+      "height": 650,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/mehendi02.jpg",
+      "category": "Mehendi",
+      "title": "Colors of Mehendi",
+      "height": 500,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/Haldi03.jpg",
+      "category": "Haldi",
+      "title": "Sunny Haldi",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/Haldi04.jpg",
+      "category": "Haldi",
+      "title": "Sunny Haldi",
+      "height": 400,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/prewedding05.jpg",
+      "category": "Pre-Wedding",
+      "title": "Love in the Air",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/prewedding04.png",
+      "category": "Pre-Wedding",
+      "title": "Sunset Romance",
+      "height": 600,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/candid02.jpg",
+      "category": "Candid",
+      "title": "Laughter",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/candid03.jpg",
+      "category": "Candid",
+      "title": "Laughter",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    },
+    {
+      "type": "image",
+      "src": "/images/portfolio/candid04.jpg",
+      "category": "Candid",
+      "title": "Laughter",
+      "height": 450,
+      "className": "md:col-span-1 md:row-span-1 h-[300px]"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Aura Weddings captured our day perfectly. Every time we look at our photos, we are transported right back to those beautiful moments. Truly cinematic and breathtaking work.",
+      "author": "Priya & Rohan",
+      "location": "Udaipur Destination Wedding",
+      "image": "/images/portfolio/wedding01.png"
+    },
+    {
+      "quote": "Professional, unobtrusive, and incredibly talented. The team made us feel so comfortable, and the resulting cinematography felt like a movie of our own love story.",
+      "author": "Sneha & Amit",
+      "location": "Mumbai",
+      "image": "/images/portfolio/prewedding01.png"
+    },
+    {
+      "quote": "The attention to detail and ability to catch the most fleeting, candid emotions is unmatched. We couldn't have asked for better storytellers for our wedding.",
+      "author": "Kavya & Siddharth",
+      "location": "Goa Beach Wedding",
+      "image": "/images/portfolio/candid01.jpg"
+    }
+  ]
+}
