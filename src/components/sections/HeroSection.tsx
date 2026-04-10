@@ -52,7 +52,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-gold tracking-[0.3em] uppercase text-xs md:text-sm mb-6"
         >
-          Welcome to Aura
+          Welcome to PS
         </motion.p>
         <motion.h1
           initial={{ opacity: 0, y: 40 }}

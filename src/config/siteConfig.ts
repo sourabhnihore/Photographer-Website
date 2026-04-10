@@ -21,9 +21,9 @@ export const siteConfig = {
   /** Used for the floating WhatsApp button — digits only, no spaces */
   whatsapp: "917049000425",
 
-  email: "suryanshyadav0@gmai.com",
+  email: "suryanshyadav@gmail.com",
 
-  bookingEmail: "suryanshyadav0@gmai.com",
+  bookingEmail: "suryanshyadav@gmail.com",
 
   // ── Address ────────────────────────────────────────────────
   address: {
